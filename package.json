@@ -1,0 +1,29 @@
+{
+    "name": "terminal-input",
+    "version": "1.0.0-alpha.0",
+    "description": "Terminal input stream reader",
+    "main": "index.js",
+    "engines": {
+        "node": ">=v18.7.0",
+        "npm": ">=8.15.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@types/jest": "^26.0.14",
+        "jest": "^26.5.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/daaxar/terminal-input.git"
+    },
+    "keywords": [],
+    "author": "github.com/daaxar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/daaxar/terminal-input/issues"
+    },
+    "homepage": "https://github.com/daaxar/terminal-input#readme"
+}
